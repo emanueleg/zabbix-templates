@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zabbix_export>
+    <version>3.0</version>
+    <date>2018-09-04T10:47:29Z</date>
+    <value_maps>
+        <value_map>
+            <name>APC ATS  panel lock status</name>
+            <mappings>
+                <mapping>
+                    <value>1</value>
+                    <newvalue>locked</newvalue>
+                </mapping>
+                <mapping>
+                    <value>2</value>
+                    <newvalue>unlocked</newvalue>
+                </mapping>
+            </mappings>
+        </value_map>
+        <value_map>
+            <name>APC ATS Redundancy state</name>
+            <mappings>
+                <mapping>
+                    <value>1</value>
+                    <newvalue>Redundancy Lost</newvalue>
+                </mapping>
+                <mapping>
+                    <value>2</value>
+                    <newvalue>Fully redundant</newvalue>
+                </mapping>
+            </mappings>
+        </value_map>
+        <value_map>
+            <name>APC ATS Source</name>
+            <mappings>
+                <mapping>
+                    <value>1</value>
+                    <newvalue>Source A</newvalue>
+                </mapping>
+                <mapping>
+                    <value>2</value>
+                    <newvalue>Source B</newvalue>
+                </mapping>
+            </mappings>
+        </value_map>
+        <value_map>
+            <name>APC ATS Source statuses</name>
+            <mappings>
+                <mapping>
+                    <value>1</value>
+                    <newvalue>fail</newvalue>
+                </mapping>
+                <mapping>
+                    <value>2</value>
+                    <newvalue>ok</newvalue>
+                </mapping>
+            </mappings>
+        </value_map>
+        <value_map>
+            <name>APC ATS  Switch over current state</name>
+            <mappings>
+                <mapping>
+                    <value>1</value>
+                    <newvalue>OverCurrent</newvalue>
+                </mapping>
+                <mapping>
+                    <value>2</value>
+                    <newvalue>CurrentOK</newvalue>
+                </mapping>
+            </mappings>
+        </value_map>
+    </value_maps>
+</zabbix_export>
