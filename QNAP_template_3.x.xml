@@ -70,7 +70,7 @@
                     <password/>
                     <publickey/>
                     <privatekey/>
-                    <port>{$SNMP_PORT}</port>
+                    <port/>
                     <description>CPU temperature in centigrade</description>
                     <inventory_link>0</inventory_link>
                     <applications>
@@ -113,7 +113,7 @@
                     <password/>
                     <publickey/>
                     <privatekey/>
-                    <port>{$SNMP_PORT}</port>
+                    <port/>
                     <description>Host name</description>
                     <inventory_link>0</inventory_link>
                     <applications>
@@ -156,7 +156,7 @@
                     <password/>
                     <publickey/>
                     <privatekey/>
-                    <port>{$SNMP_PORT}</port>
+                    <port/>
                     <description/>
                     <inventory_link>0</inventory_link>
                     <applications>
@@ -199,7 +199,7 @@
                     <password/>
                     <publickey/>
                     <privatekey/>
-                    <port>{$SNMP_PORT}</port>
+                    <port/>
                     <description/>
                     <inventory_link>16</inventory_link>
                     <applications>
@@ -242,7 +242,7 @@
                     <password/>
                     <publickey/>
                     <privatekey/>
-                    <port>{$SNMP_PORT}</port>
+                    <port/>
                     <description/>
                     <inventory_link>14</inventory_link>
                     <applications>
@@ -285,7 +285,7 @@
                     <password/>
                     <publickey/>
                     <privatekey/>
-                    <port>{$SNMP_PORT}</port>
+                    <port/>
                     <description/>
                     <inventory_link>0</inventory_link>
                     <applications>
@@ -328,7 +328,7 @@
                     <password/>
                     <publickey/>
                     <privatekey/>
-                    <port>{$SNMP_PORT}</port>
+                    <port/>
                     <description/>
                     <inventory_link>31</inventory_link>
                     <applications>
@@ -371,7 +371,7 @@
                     <password/>
                     <publickey/>
                     <privatekey/>
-                    <port>{$SNMP_PORT}</port>
+                    <port/>
                     <description>System CPU usage</description>
                     <inventory_link>0</inventory_link>
                     <applications>
@@ -414,7 +414,7 @@
                     <password/>
                     <publickey/>
                     <privatekey/>
-                    <port>{$SNMP_PORT}</port>
+                    <port/>
                     <description/>
                     <inventory_link>0</inventory_link>
                     <applications>
@@ -457,7 +457,7 @@
                     <password/>
                     <publickey/>
                     <privatekey/>
-                    <port>{$SNMP_PORT}</port>
+                    <port/>
                     <description/>
                     <inventory_link>0</inventory_link>
                     <applications>
@@ -500,7 +500,7 @@
                     <password/>
                     <publickey/>
                     <privatekey/>
-                    <port>{$SNMP_PORT}</port>
+                    <port/>
                     <description>System temperature in centigrade</description>
                     <inventory_link>0</inventory_link>
                     <applications>
@@ -543,7 +543,7 @@
                     <password/>
                     <publickey/>
                     <privatekey/>
-                    <port>{$SNMP_PORT}</port>
+                    <port/>
                     <description/>
                     <inventory_link>0</inventory_link>
                     <applications>
@@ -586,7 +586,7 @@
                     <password/>
                     <publickey/>
                     <privatekey/>
-                    <port>{$SNMP_PORT}</port>
+                    <port/>
                     <description/>
                     <inventory_link>0</inventory_link>
                     <applications>
@@ -623,7 +623,7 @@
                     <password/>
                     <publickey/>
                     <privatekey/>
-                    <port>{$SNMP_PORT}</port>
+                    <port/>
                     <filter>
                         <evaltype>0</evaltype>
                         <formula/>
@@ -664,7 +664,7 @@
                             <password/>
                             <publickey/>
                             <privatekey/>
-                            <port>{$SNMP_PORT}</port>
+                            <port/>
                             <description/>
                             <inventory_link>0</inventory_link>
                             <applications>
@@ -708,7 +708,7 @@
                             <password/>
                             <publickey/>
                             <privatekey/>
-                            <port>{$SNMP_PORT}</port>
+                            <port/>
                             <description/>
                             <inventory_link>0</inventory_link>
                             <applications>
@@ -752,7 +752,7 @@
                             <password/>
                             <publickey/>
                             <privatekey/>
-                            <port>{$SNMP_PORT}</port>
+                            <port/>
                             <description/>
                             <inventory_link>0</inventory_link>
                             <applications>
@@ -796,7 +796,7 @@
                             <password/>
                             <publickey/>
                             <privatekey/>
-                            <port>{$SNMP_PORT}</port>
+                            <port/>
                             <description/>
                             <inventory_link>0</inventory_link>
                             <applications>
@@ -842,7 +842,7 @@
                             <password/>
                             <publickey/>
                             <privatekey/>
-                            <port>{$SNMP_PORT}</port>
+                            <port/>
                             <description/>
                             <inventory_link>0</inventory_link>
                             <applications>
@@ -886,7 +886,7 @@
                             <password/>
                             <publickey/>
                             <privatekey/>
-                            <port>{$SNMP_PORT}</port>
+                            <port/>
                             <description/>
                             <inventory_link>0</inventory_link>
                             <applications>
@@ -983,7 +983,7 @@
                     <password/>
                     <publickey/>
                     <privatekey/>
-                    <port>{$SNMP_PORT}</port>
+                    <port/>
                     <filter>
                         <evaltype>0</evaltype>
                         <formula/>
@@ -1024,7 +1024,7 @@
                             <password/>
                             <publickey/>
                             <privatekey/>
-                            <port>{$SNMP_PORT}</port>
+                            <port/>
                             <description/>
                             <inventory_link>0</inventory_link>
                             <applications>
@@ -1076,7 +1076,7 @@
                     <password/>
                     <publickey/>
                     <privatekey/>
-                    <port>{$SNMP_PORT}</port>
+                    <port/>
                     <filter>
                         <evaltype>0</evaltype>
                         <formula/>
@@ -1117,7 +1117,7 @@
                             <password/>
                             <publickey/>
                             <privatekey/>
-                            <port>{$SNMP_PORT}</port>
+                            <port/>
                             <description/>
                             <inventory_link>0</inventory_link>
                             <applications>
@@ -1161,7 +1161,7 @@
                             <password/>
                             <publickey/>
                             <privatekey/>
-                            <port>{$SNMP_PORT}</port>
+                            <port/>
                             <description/>
                             <inventory_link>0</inventory_link>
                             <applications>
@@ -1205,7 +1205,7 @@
                             <password/>
                             <publickey/>
                             <privatekey/>
-                            <port>{$SNMP_PORT}</port>
+                            <port/>
                             <description/>
                             <inventory_link>0</inventory_link>
                             <applications>
@@ -1249,7 +1249,7 @@
                             <password/>
                             <publickey/>
                             <privatekey/>
-                            <port>{$SNMP_PORT}</port>
+                            <port/>
                             <description/>
                             <inventory_link>0</inventory_link>
                             <applications>
@@ -1295,7 +1295,7 @@
                             <password/>
                             <publickey/>
                             <privatekey/>
-                            <port>{$SNMP_PORT}</port>
+                            <port/>
                             <description/>
                             <inventory_link>0</inventory_link>
                             <applications>
@@ -1426,7 +1426,7 @@ QNAP Knowledgebase</description>
                     <password/>
                     <publickey/>
                     <privatekey/>
-                    <port>{$SNMP_PORT}</port>
+                    <port/>
                     <filter>
                         <evaltype>0</evaltype>
                         <formula/>
@@ -1467,7 +1467,7 @@ QNAP Knowledgebase</description>
                             <password/>
                             <publickey/>
                             <privatekey/>
-                            <port>{$SNMP_PORT}</port>
+                            <port/>
                             <description/>
                             <inventory_link>0</inventory_link>
                             <applications>
@@ -1511,7 +1511,7 @@ QNAP Knowledgebase</description>
                             <password/>
                             <publickey/>
                             <privatekey/>
-                            <port>{$SNMP_PORT}</port>
+                            <port/>
                             <description/>
                             <inventory_link>0</inventory_link>
                             <applications>
@@ -1555,7 +1555,7 @@ QNAP Knowledgebase</description>
                             <password/>
                             <publickey/>
                             <privatekey/>
-                            <port>{$SNMP_PORT}</port>
+                            <port/>
                             <description/>
                             <inventory_link>0</inventory_link>
                             <applications>
@@ -1599,7 +1599,7 @@ QNAP Knowledgebase</description>
                             <password/>
                             <publickey/>
                             <privatekey/>
-                            <port>{$SNMP_PORT}</port>
+                            <port/>
                             <description/>
                             <inventory_link>0</inventory_link>
                             <applications>
@@ -1685,11 +1685,7 @@ QNAP Knowledgebase</description>
                 <macro>
                     <macro>{$SYSTEM_TEMPERATURE_ALARM}</macro>
                     <value>40</value>
-                </macro>
-                <macro>
-                    <macro>{$SNMP_PORT}</macro>
-                    <value>161</value>
-                </macro>                
+                </macro>               
             </macros>
             <templates/>
             <screens/>
